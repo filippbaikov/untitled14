@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println(year(2020));
+        System.out.println();
 
             }
             private static boolean year(int y){
